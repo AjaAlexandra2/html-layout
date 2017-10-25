@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+
+
+
+h1 {
+    color:red;
+}
+
+.one {
+    background-color:#D8D8D8;
+    width: 100vw;
+    height: 14vh;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+
+.two {
+    background-color:white;
+    width: 100vw;
+    height: 30vh;
+}
+
+.three {
+    background-color:#4A90E2;
+    width: 100vw;
+    height: 14vh;
+}
+
+.four {
+    background-color: Fuchsia;
+    width: 100vw;
+    height: 14vh;
+}
+
+.five {
+    background-color: lime;
+    width: 100vw;
+    height: 14vh;
+}
+
+.six {
+    background-color: purple;
+    width: 100vw;
+    height: 14vh;
+}
+
+.littlesquare {
+    width: 85px;
+    height: 85px;
+    background-color: #4A90E2;
+
+}
+p {
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: 30px;
+
+}

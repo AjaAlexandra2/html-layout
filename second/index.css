@@ -1,0 +1,88 @@
+html, body{
+  height: 100%;
+  padding, margin: 0;
+}
+
+#container1, #container2, #container3{
+  margin: 25px;
+}
+
+#container1{
+  height: 20%;
+  width: auto;
+  border-style: solid;
+  border-width: 5px;
+  padding:10px;
+}
+
+
+
+#purple{
+  height: 150px;
+  width: 50px;
+  background: rgb(143,0,232);
+  margin-left: 5px;
+  display: inline-block;
+}
+
+#green{
+  height: 200px;
+  width: 400px;
+  background: rgb(0,132,0);
+  display: inline-block;
+}
+
+#purple, #green, #blue{
+  margin-right: 50px;
+  align-items: center;
+}
+
+#blue{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background: rgb(104,201,236);
+  display: inline-block;
+}
+
+#container2{
+  height: 35%;
+  width: auto;
+  border-style: dotted;
+  border-width: 5px;
+  padding: 5px;
+}
+
+
+#container3{
+  height: 25%;
+  width: 50%;
+  margin: auto;
+  color: rgb(19,0,122);
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(197,197,197);
+  box-shadow: 5px 5px 5px rgb(212,212,212);
+}
+
+
+
+
+#yellow{
+  height: 70%;
+  width: 95%;
+  margin-top: 50px;
+  background: rgb(255,250,192);
+  box-shadow: 10px 10px 5px rgb(56,56,56);
+  margin: auto;
+
+  padding: 0;
+}
+
+
+.container3 h1 {
+  width: 100%;
+    text-align: center;
+    color: black;
+    letter-spacing: 10px;
+}

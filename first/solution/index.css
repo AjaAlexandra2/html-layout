@@ -1,3 +1,9 @@
+
+
+
+
+
+
 body {
   margin: 0;
   background-color: #D8D8D8;
@@ -13,12 +19,12 @@ body {
 
 .main-content {
   background-color: #EFEFEF;
-  margin: 0 auto;
+  margin: auto;
   width: 75%;
   height: 70vh;
 }
 
-.footer { 
+.footer {
   background-color: #222222;
   margin: 0 auto;
   width: 75%;
